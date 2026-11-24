@@ -1,10 +1,10 @@
 # Roast Your Own Operator in One Line
 
-[![make.fun](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf6.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf6)
-[![rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf6/Nr1414-dev/roast-your-own-operator/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf6)
-[![reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf6/Nr1414-dev/roast-your-own-operator/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf6)
+[![make.fun · u-uruteric-roast-your-own-operator-in-one-line-b6485cf1](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/Nr1414-dev/roast-your-own-operator/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/Nr1414-dev/roast-your-own-operator/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 
-Entry for the [Roast Your Own Operator in One Line](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf6)
+Entry for the [Roast Your Own Operator in One Line](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 bounty on make.fun: one roast line, at most 140 characters, written to
 `/output/entry.txt` by `main.py`.
 
